@@ -15,8 +15,8 @@ changed the background color to lavendar
 
 # Activity 4
 uploaded the map of places i have been
-![Screenshot from 2023-09-28 15-38-47](https://github.com/tracyqian0720/tracyqian0720.github.io/assets/57376402/c696d902-5696-42e5-b407-7ce26d278341)
-
+updated navigation menu
+![Screenshot from 2023-09-28 15-55-11](https://github.com/tracyqian0720/tracyqian0720.github.io/assets/57376402/324d6c71-83f3-4798-bd2f-99c5138edac3)
 
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
