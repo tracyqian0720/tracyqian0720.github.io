@@ -367,7 +367,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(33, 150, 243, 0.2);
+  background-color: rgba(38, 92, 137, 0.2);
 }
 
 .card {
@@ -543,13 +543,13 @@ small {
 }
 
 .grey-text {
-  color: #666 !important;
+  color: #7100bd !important;
 }
 
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #413fb473 !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #4128bc64 !important;
 }
 
 /* .teal {
