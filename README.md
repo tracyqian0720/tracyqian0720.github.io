@@ -1,5 +1,16 @@
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
+# Activity 1
+my website link: https://tracyqian0720.github.io/
+
+# Activity 2 uploaded my personal information
+
+see below for home page and research page example
+![Screenshot from 2023-09-28 14-47-53](https://github.com/tracyqian0720/tracyqian0720.github.io/assets/57376402/baf78e31-bdff-42f2-b5b1-428a10571c84)
+![Screenshot from 2023-09-28 15-14-22](https://github.com/tracyqian0720/tracyqian0720.github.io/assets/57376402/ca0a6a55-f25f-489c-a2af-8a69a9f87740)
+
+# Activity 3 
+
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
