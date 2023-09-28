@@ -2,6 +2,7 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 # Activity 1
 my website link: https://tracyqian0720.github.io/
+![Screenshot from 2023-09-28 15-57-54](https://github.com/tracyqian0720/tracyqian0720.github.io/assets/57376402/c1010819-07f8-481b-a7df-eb370dcadc22)
 
 # Activity 2 uploaded my personal information
 see below for home page and research page example
